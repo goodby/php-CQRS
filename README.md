@@ -1,14 +1,14 @@
-# Cqrs
+# Goodby\CQRS
 
 [![Build Status](https://secure.travis-ci.org/goodby/cqrs.png?branch=master)](https://travis-ci.org/goodby/cqrs)
 
-## What is Cqrs?
+## What is Goodby\CQRS?
 
 editing...
 
 ## Requirements
 
-editing...
+* PHP 5.4 or later
 
 ## Installation
 
