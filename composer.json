@@ -1,8 +1,8 @@
 {
-    "name": "goodby/cqrs",
+    "name": "goodby/CQRS",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/goodby/cqrs",
+    "homepage": "https://github.com/goodby/php-CQRS",
     "license": "MIT",
     "require": {
         "php": ">=5.3.2"
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Goodby\\Cqrs": "src/"
+            "Goodby\\CQRS": ["src/", "tests/"]
         }
     }
 }
